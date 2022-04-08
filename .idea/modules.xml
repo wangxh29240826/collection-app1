@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/collection-app.iml" filepath="$PROJECT_DIR$/collection-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../collection-map-app2/collection-map-app2.iml" filepath="$PROJECT_DIR$/../collection-map-app2/collection-map-app2.iml" />
     </modules>
   </component>
 </project>
